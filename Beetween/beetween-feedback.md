@@ -1,5 +1,7 @@
 # Between feedback
 
+Feedback to @Pat Pasut
+
 ขอ feedback แค่ตัว UI อย่างเดียวก่อนกันนะครับ
 
 ถ้าเป็นเรื่องอื่น feedback ไปอาจไม่ช่วยอะไรเพราะว่าผมอาจจะไม่ใช้ Target user ของแอป between ถ้าอยากให้ feedback บอกผมอีกทีดีกว่า
